@@ -14,14 +14,14 @@
 	<div class="row">
 
 		<div class="col-sm-2">
-			<h1>PKS</h1>
+			<h1><strong>PKS</strong></h1>
 
 		</div>
 
 		<div class="col-sm-10">
 
 			<h4>PKS2</h4>
-			<p>thisnkanskanskand<em>janskajj jajadjad</em>> ajdbajdjadn</p>
+			<p>thisnkanskanskandjanskajj jajadjad ajdbajdjadn</p>
 			
 		</div>
 			
