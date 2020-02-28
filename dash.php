@@ -15,7 +15,25 @@
 	<div class="row">
 <!-- Taking two colum as boots trap has total 12 column-->
 		<div class="col-sm-2">
-			<h1><strong>PKS</strong></h1>
+			
+
+			<ul id="Side_Menu" class="nav nav-pills nav-stacked  list-group">
+				<h1><strong>PKS</strong></h1>
+
+				<li class="list-group-item active">  <a href="dash.php">Dashboard</a> </li>
+
+				<li class="list-group-item"> <a href="#">Add new Post</a> </li>
+
+				<li class="list-group-item">  <a href="#">Categories</a> </li>
+
+				<li class="list-group-item">  <a href="#">Manage admins</a> </li>
+
+				<li class="list-group-item">  <a href="#">Comments</a> </li>
+
+				<li class="list-group-item">  <a href="#">Live blog</a> </li>
+
+				<li class="list-group-item">  <a href="#">Logout</a> </li>
+			</ul>
 
 		</div>
 

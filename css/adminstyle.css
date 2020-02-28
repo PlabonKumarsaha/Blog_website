@@ -9,3 +9,21 @@ background-color: #2f4050;
 background-color: #ffffff;
 
 }
+
+#Side_Menu a{
+
+color: #33BBFF;
+
+}
+
+#Side_Menu .active a{
+
+color: #3346FF;
+background-color: #33B2FF;
+font-weight: bold;
+display: block;
+
+
+}
+
+
