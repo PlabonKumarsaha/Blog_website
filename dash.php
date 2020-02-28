@@ -20,19 +20,27 @@
 			<ul id="Side_Menu" class="nav nav-pills nav-stacked  list-group">
 				<h1><strong>PKS</strong></h1>
 
-				<li class="list-group-item active">  <a href="dash.php">Dashboard</a> </li>
+				<li class="list-group-item active">  <a href="dash.php">
+					<span class= "glyphicon glyphicon-th"></span> Dashboard</a> </li>
 
-				<li class="list-group-item"> <a href="#">Add new Post</a> </li>
+				<li class="list-group-item"> <a href="#">
 
-				<li class="list-group-item">  <a href="#">Categories</a> </li>
+					<span class= "glyphicon glyphicon-list-alt"></span>Add new Post</a> </li>
 
-				<li class="list-group-item">  <a href="#">Manage admins</a> </li>
+				<li class="list-group-item">  <a href="#">
+					<span class= "glyphicon glyphicon-tags"></span>Categories</a> </li>
 
-				<li class="list-group-item">  <a href="#">Comments</a> </li>
+				<li class="list-group-item">  <a href="#">
+					<span class= "glyphicon glyphicon-user"></span>Manage admins</a> </li>
 
-				<li class="list-group-item">  <a href="#">Live blog</a> </li>
+				<li class="list-group-item">  <a href="#">
+					<span class= "glyphicon glyphicon-comment"></span>Comments</a> </li>
 
-				<li class="list-group-item">  <a href="#">Logout</a> </li>
+				<li class="list-group-item">  <a href="#">
+					<span class= "glyphicon glyphicon-equilizer"></span>Live blog</a> </li>
+
+				<li class="list-group-item">  <a href="#">
+					<span class= "glyphicon glyphicon-log-out"></span>Logout</a> </li>
 			</ul>
 
 		</div>
@@ -40,6 +48,8 @@
 		<!-- Taking other ten colum as boots trap has total 12 column-->
 
 		<div class="col-sm-10">
+
+			<h1>Admin Dashboard</h1>
 
 			<h4>PKS2</h4>
 			<p>thisnkanskanskandjanskajj jajadjad ajdbajdjadn</p>
