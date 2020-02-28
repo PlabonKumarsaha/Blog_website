@@ -6,7 +6,6 @@
 	<script src="js/jquery-3.4.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="css/adminstyle.css">
-
 </head>
 <body>
 
